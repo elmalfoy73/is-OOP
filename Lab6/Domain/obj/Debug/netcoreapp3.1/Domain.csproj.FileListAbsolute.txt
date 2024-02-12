@@ -1,0 +1,10 @@
+/Users/elizabeth/Documents/GitHub/elmalfoy73/Lab6/Domain/bin/Debug/netcoreapp3.1/Domain.deps.json
+/Users/elizabeth/Documents/GitHub/elmalfoy73/Lab6/Domain/bin/Debug/netcoreapp3.1/Domain.dll
+/Users/elizabeth/Documents/GitHub/elmalfoy73/Lab6/Domain/bin/Debug/netcoreapp3.1/Domain.pdb
+/Users/elizabeth/Documents/GitHub/elmalfoy73/Lab6/Domain/obj/Debug/netcoreapp3.1/Domain.csproj.AssemblyReference.cache
+/Users/elizabeth/Documents/GitHub/elmalfoy73/Lab6/Domain/obj/Debug/netcoreapp3.1/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elizabeth/Documents/GitHub/elmalfoy73/Lab6/Domain/obj/Debug/netcoreapp3.1/Domain.AssemblyInfoInputs.cache
+/Users/elizabeth/Documents/GitHub/elmalfoy73/Lab6/Domain/obj/Debug/netcoreapp3.1/Domain.AssemblyInfo.cs
+/Users/elizabeth/Documents/GitHub/elmalfoy73/Lab6/Domain/obj/Debug/netcoreapp3.1/Domain.csproj.CoreCompileInputs.cache
+/Users/elizabeth/Documents/GitHub/elmalfoy73/Lab6/Domain/obj/Debug/netcoreapp3.1/Domain.dll
+/Users/elizabeth/Documents/GitHub/elmalfoy73/Lab6/Domain/obj/Debug/netcoreapp3.1/Domain.pdb

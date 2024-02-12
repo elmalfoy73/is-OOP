@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yw+oJr9pKamoO9uJZzwV4lM+kjaNHqpz5zbJndEryoRau2B7zzB+l/KNCGkND7jcyyXeqpEa+JB5Gn4Tuqt/Bw==",
+  "success": true,
+  "projectFilePath": "/Users/elizabeth/Documents/GitHub/elmalfoy73/Lab6/Services/Services.csproj",
+  "expectedPackageFiles": [
+    "/Users/Elizabeth/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.0/microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
+    "/Users/Elizabeth/.nuget/packages/microsoft.bcl.hashcode/1.1.0/microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
+    "/Users/Elizabeth/.nuget/packages/microsoft.entityframeworkcore/3.1.0/microsoft.entityframeworkcore.3.1.0.nupkg.sha512",
+    "/Users/Elizabeth/.nuget/packages/microsoft.entityframeworkcore.abstractions/3.1.0/microsoft.entityframeworkcore.abstractions.3.1.0.nupkg.sha512",
+    "/Users/Elizabeth/.nuget/packages/microsoft.entityframeworkcore.analyzers/3.1.0/microsoft.entityframeworkcore.analyzers.3.1.0.nupkg.sha512",
+    "/Users/Elizabeth/.nuget/packages/microsoft.extensions.caching.abstractions/3.1.0/microsoft.extensions.caching.abstractions.3.1.0.nupkg.sha512",
+    "/Users/Elizabeth/.nuget/packages/microsoft.extensions.caching.memory/3.1.0/microsoft.extensions.caching.memory.3.1.0.nupkg.sha512",
+    "/Users/Elizabeth/.nuget/packages/microsoft.extensions.configuration/3.1.0/microsoft.extensions.configuration.3.1.0.nupkg.sha512",
+    "/Users/Elizabeth/.nuget/packages/microsoft.extensions.configuration.abstractions/3.1.0/microsoft.extensions.configuration.abstractions.3.1.0.nupkg.sha512",
+    "/Users/Elizabeth/.nuget/packages/microsoft.extensions.configuration.binder/3.1.0/microsoft.extensions.configuration.binder.3.1.0.nupkg.sha512",
+    "/Users/Elizabeth/.nuget/packages/microsoft.extensions.dependencyinjection/3.1.0/microsoft.extensions.dependencyinjection.3.1.0.nupkg.sha512",
+    "/Users/Elizabeth/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/3.1.0/microsoft.extensions.dependencyinjection.abstractions.3.1.0.nupkg.sha512",
+    "/Users/Elizabeth/.nuget/packages/microsoft.extensions.logging/3.1.0/microsoft.extensions.logging.3.1.0.nupkg.sha512",
+    "/Users/Elizabeth/.nuget/packages/microsoft.extensions.logging.abstractions/3.1.0/microsoft.extensions.logging.abstractions.3.1.0.nupkg.sha512",
+    "/Users/Elizabeth/.nuget/packages/microsoft.extensions.options/3.1.0/microsoft.extensions.options.3.1.0.nupkg.sha512",
+    "/Users/Elizabeth/.nuget/packages/microsoft.extensions.primitives/3.1.0/microsoft.extensions.primitives.3.1.0.nupkg.sha512",
+    "/Users/Elizabeth/.nuget/packages/system.collections.immutable/1.7.0/system.collections.immutable.1.7.0.nupkg.sha512",
+    "/Users/Elizabeth/.nuget/packages/system.componentmodel.annotations/4.7.0/system.componentmodel.annotations.4.7.0.nupkg.sha512",
+    "/Users/Elizabeth/.nuget/packages/system.diagnostics.diagnosticsource/4.7.0/system.diagnostics.diagnosticsource.4.7.0.nupkg.sha512",
+    "/Users/Elizabeth/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/Users/Elizabeth/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+/Users/elizabeth/Documents/GitHub/elmalfoy73/Lab6/Services/bin/Debug/netcoreapp3.1/Services.deps.json
+/Users/elizabeth/Documents/GitHub/elmalfoy73/Lab6/Services/bin/Debug/netcoreapp3.1/Services.dll
+/Users/elizabeth/Documents/GitHub/elmalfoy73/Lab6/Services/bin/Debug/netcoreapp3.1/Services.pdb
+/Users/elizabeth/Documents/GitHub/elmalfoy73/Lab6/Services/bin/Debug/netcoreapp3.1/DataAccess.dll
+/Users/elizabeth/Documents/GitHub/elmalfoy73/Lab6/Services/bin/Debug/netcoreapp3.1/Domain.dll
+/Users/elizabeth/Documents/GitHub/elmalfoy73/Lab6/Services/bin/Debug/netcoreapp3.1/DataAccess.pdb
+/Users/elizabeth/Documents/GitHub/elmalfoy73/Lab6/Services/bin/Debug/netcoreapp3.1/Domain.pdb
+/Users/elizabeth/Documents/GitHub/elmalfoy73/Lab6/Services/obj/Debug/netcoreapp3.1/Services.csproj.AssemblyReference.cache
+/Users/elizabeth/Documents/GitHub/elmalfoy73/Lab6/Services/obj/Debug/netcoreapp3.1/Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elizabeth/Documents/GitHub/elmalfoy73/Lab6/Services/obj/Debug/netcoreapp3.1/Services.AssemblyInfoInputs.cache
+/Users/elizabeth/Documents/GitHub/elmalfoy73/Lab6/Services/obj/Debug/netcoreapp3.1/Services.AssemblyInfo.cs
+/Users/elizabeth/Documents/GitHub/elmalfoy73/Lab6/Services/obj/Debug/netcoreapp3.1/Services.csproj.CoreCompileInputs.cache
+/Users/elizabeth/Documents/GitHub/elmalfoy73/Lab6/Services/obj/Debug/netcoreapp3.1/Services.csproj.CopyComplete
+/Users/elizabeth/Documents/GitHub/elmalfoy73/Lab6/Services/obj/Debug/netcoreapp3.1/Services.dll
+/Users/elizabeth/Documents/GitHub/elmalfoy73/Lab6/Services/obj/Debug/netcoreapp3.1/Services.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QmejbytcbEIhPWQcmRkmoutks90Srz71lMqCMIJwI3Vnlpegep0gRzraefxJJrMG+Snx6nn+0P6beCCR6PyRrg==",
+  "success": true,
+  "projectFilePath": "/Users/elizabeth/Documents/GitHub/elmalfoy73/Lab1/Shops/Shops.csproj",
+  "expectedPackageFiles": [
+    "/Users/Elizabeth/.nuget/packages/stylecop.analyzers/1.1.118/stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+/Users/elizabeth/Documents/GitHub/elmalfoy73/Lab6/DataAccess/bin/Debug/netcoreapp3.1/DataAccess.deps.json
+/Users/elizabeth/Documents/GitHub/elmalfoy73/Lab6/DataAccess/bin/Debug/netcoreapp3.1/DataAccess.dll
+/Users/elizabeth/Documents/GitHub/elmalfoy73/Lab6/DataAccess/bin/Debug/netcoreapp3.1/DataAccess.pdb
+/Users/elizabeth/Documents/GitHub/elmalfoy73/Lab6/DataAccess/bin/Debug/netcoreapp3.1/Domain.dll
+/Users/elizabeth/Documents/GitHub/elmalfoy73/Lab6/DataAccess/bin/Debug/netcoreapp3.1/Domain.pdb
+/Users/elizabeth/Documents/GitHub/elmalfoy73/Lab6/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.csproj.AssemblyReference.cache
+/Users/elizabeth/Documents/GitHub/elmalfoy73/Lab6/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elizabeth/Documents/GitHub/elmalfoy73/Lab6/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.AssemblyInfoInputs.cache
+/Users/elizabeth/Documents/GitHub/elmalfoy73/Lab6/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.AssemblyInfo.cs
+/Users/elizabeth/Documents/GitHub/elmalfoy73/Lab6/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.csproj.CoreCompileInputs.cache
+/Users/elizabeth/Documents/GitHub/elmalfoy73/Lab6/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.csproj.CopyComplete
+/Users/elizabeth/Documents/GitHub/elmalfoy73/Lab6/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.dll
+/Users/elizabeth/Documents/GitHub/elmalfoy73/Lab6/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.pdb

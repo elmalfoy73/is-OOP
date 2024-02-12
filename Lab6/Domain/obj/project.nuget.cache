@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ahTKIQn8lac6qlspIkKs1KmibgvnsrWAyJVqoC5P3plMvSgFIhELeEmmyTOyFzZ2lI3WiA6L8DaMvvxPAj25OA==",
+  "success": true,
+  "projectFilePath": "/Users/elizabeth/Documents/GitHub/elmalfoy73/Lab6/Domain/Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/Elizabeth/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/Users/Elizabeth/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

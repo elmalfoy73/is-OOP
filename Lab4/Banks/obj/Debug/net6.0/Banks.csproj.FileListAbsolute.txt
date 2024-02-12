@@ -1,0 +1,5 @@
+/Users/elizabeth/Documents/GitHub/elmalfoy73/Lab4/Banks/obj/Debug/net6.0/Banks.csproj.AssemblyReference.cache
+/Users/elizabeth/Documents/GitHub/elmalfoy73/Lab4/Banks/obj/Debug/net6.0/Banks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elizabeth/Documents/GitHub/elmalfoy73/Lab4/Banks/obj/Debug/net6.0/Banks.AssemblyInfoInputs.cache
+/Users/elizabeth/Documents/GitHub/elmalfoy73/Lab4/Banks/obj/Debug/net6.0/Banks.AssemblyInfo.cs
+/Users/elizabeth/Documents/GitHub/elmalfoy73/Lab4/Banks/obj/Debug/net6.0/Banks.csproj.CoreCompileInputs.cache
